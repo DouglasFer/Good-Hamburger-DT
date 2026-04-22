@@ -1,0 +1,25 @@
+﻿<h3>Cardápio</h3>
+
+<ul>
+    @foreach (var item in Itens)
+    {
+        <li>@item.Name - R$ @item.Price</li>
+    }
+</ul>
+
+@code {
+    private List<Produto> Itens = new()
+    {
+        new Produto { Name = "X Burger", Price = 5 },
+        new Produto { Name = "X Egg", Price = 4.5m },
+        new Produto { Name = "X Bacon", Price = 7 },
+        new Produto { Name = "Batata frita", Price = 2 },
+        new Produto { Name = "Refrigerante", Price = 2.5m }
+    };
+
+    public class Produto
+    {
+        public string Name { get; set; }
+        public decimal Price { get; set; }
+    }
+}
