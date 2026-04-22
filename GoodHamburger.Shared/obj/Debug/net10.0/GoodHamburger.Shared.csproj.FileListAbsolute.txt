@@ -1,0 +1,11 @@
+C:\DesafioTecnico\GoodHamburger.Shared\bin\Debug\net10.0\GoodHamburger.Shared.deps.json
+C:\DesafioTecnico\GoodHamburger.Shared\bin\Debug\net10.0\GoodHamburger.Shared.dll
+C:\DesafioTecnico\GoodHamburger.Shared\bin\Debug\net10.0\GoodHamburger.Shared.pdb
+C:\DesafioTecnico\GoodHamburger.Shared\obj\Debug\net10.0\GoodHamburger.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioTecnico\GoodHamburger.Shared\obj\Debug\net10.0\GoodHamburger.Shared.AssemblyInfoInputs.cache
+C:\DesafioTecnico\GoodHamburger.Shared\obj\Debug\net10.0\GoodHamburger.Shared.AssemblyInfo.cs
+C:\DesafioTecnico\GoodHamburger.Shared\obj\Debug\net10.0\GoodHamburger.Shared.csproj.CoreCompileInputs.cache
+C:\DesafioTecnico\GoodHamburger.Shared\obj\Debug\net10.0\GoodHamburger.Shared.dll
+C:\DesafioTecnico\GoodHamburger.Shared\obj\Debug\net10.0\refint\GoodHamburger.Shared.dll
+C:\DesafioTecnico\GoodHamburger.Shared\obj\Debug\net10.0\GoodHamburger.Shared.pdb
+C:\DesafioTecnico\GoodHamburger.Shared\obj\Debug\net10.0\ref\GoodHamburger.Shared.dll
